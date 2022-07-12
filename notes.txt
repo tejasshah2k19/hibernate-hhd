@@ -1,0 +1,11 @@
+1 to m 
+
+customer 
+
+orders 
+
+raj --> N 
+order --> 1 
+
+
+customer 		order[customerId]
